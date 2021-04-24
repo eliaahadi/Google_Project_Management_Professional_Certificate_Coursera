@@ -1,2 +1,4 @@
-# Google_Project_Management_Professional_Certificate_Coursera
-https://www.coursera.org/professional-certificates/google-project-management
+# Google Project Management Professional Certificate by Coursera
+
+## Reference 
+- https://www.coursera.org/professional-certificates/google-project-management
